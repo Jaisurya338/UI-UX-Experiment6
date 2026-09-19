@@ -24,8 +24,10 @@ Step 5: Create User Flow / Task Flow Diagram Choose a task (e.g., “Book appoin
 Step 6: Build Information Architecture (IA) Choose an app/site (e.g., Saveetha University) Perform open or closed card sorting Categorize and list out all sections (Home, Courses, Admissions, About Us, etc.) Create a site map using hierarchy boxes and lines in Figma
 
 ## Output:
-![Uploading image.png…]()
-![Uploading image.png…]()
+<img width="1099" height="800" alt="image" src="https://github.com/user-attachments/assets/c4695953-daaa-4ab0-8395-ddc2ba3a23f0" />
+<img width="292" height="632" alt="image" src="https://github.com/user-attachments/assets/f75a143c-7033-43ba-a5ee-ea6c87ac505d" />
+
+
 
 
 ## Result:
